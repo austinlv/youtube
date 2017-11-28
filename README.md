@@ -1,7 +1,5 @@
-# youtube
-youtube front page copy
-
-- This is a youtube front page copy
+# Youtube Copy!
+I copied the front page of Youtube..
 
 Made with:
 
